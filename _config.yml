@@ -1,7 +1,7 @@
 ---
 title: "Gnaneshwara Babu"
 date: 2022-05-25
----
+
 
 theme: minima
 title: Gnaneshwara Babu
@@ -18,3 +18,4 @@ twitter_username: mail2gnana # DO NOT include the @ character, or else the build
 github_username:  code2gnana # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+---
